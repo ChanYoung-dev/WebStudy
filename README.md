@@ -14,7 +14,7 @@
 
 * ## [보편적인 로드맵 2020](https://github.com/devJang/developer-roadmap "로드맵")
 
-![famous_tech_intro](./img/famous_tech_intro.png)![famous_tech_front](./img/famous_tech_front.png)![famous_tech_back](./img/famous_tech_back.png)
+![famous_tech_intro](./img/famous_tech_intro.png)![famous_tech_Front](./img/famous_tech_Front.png)![famous_tech_back](./img/famous_tech_back.png)
 
 ## 이외에도 참고할만 로드맵
 
