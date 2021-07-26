@@ -4,19 +4,36 @@
 
 # 🔘 Roadmap
 
-* ## [우아한테크코스 로드맵 2020ver](https://github.com/woowacourse/back-end-roadmap "우아한테크코스 로드맵")
+## 1. [우아한테크코스 로드맵 2020ver](https://github.com/woowacourse/back-end-roadmap "우아한테크코스 로드맵")
 
-![woowa_basic](./img/woowa_basic.png)
+<details>
+  <summary>로드맵 펼치기</summary>
+  <div markdown="1"> 
+    <figure>
+    <img src="./img/woowa_intro.png" alt="우아한테크소스_인트로">
+    <img src="./img/woowa_backend.png" alt="우아한테크소스_백엔드">
+</figure>
+  </div>
+</details>
 
-![woowa_backend](./img/woowa_backend.png)
+
+
+## 2. [보편적인 로드맵 2020](https://github.com/devJang/developer-roadmap "로드맵")
+
+<details>
+  <summary>로드맵 펼치기</summary>
+  <div markdown="1"> 
+    <figure>
+    <img src="./img/famous_tech_intro.png" alt="대중적인로드맵_인트로">
+    <img src="./img/famous_tech_Front.png" alt="대중적인로드맵_프론트엔드">
+    <img src="./img/famous_tech_back.png" alt="대중적인로드맵_백엔드">
+</figure>
+  </div>
+</details>
 
 
 
-* ## [보편적인 로드맵 2020](https://github.com/devJang/developer-roadmap "로드맵")
-
-![famous_tech_intro](./img/famous_tech_intro.png)![famous_tech_Front](./img/famous_tech_Front.png)![famous_tech_back](./img/famous_tech_back.png)
-
-## 이외에도 참고할만 로드맵
+## 3. 이외에도 참고할만 로드맵
 
 * #### [노마드 코더 : 풀스택 주니어 웹개발자가 되려면? ver2020](https://www.youtube.com/watch?v=ODa9mY2bEEc&t=294s "노마드코더")
 ------
