@@ -8,10 +8,11 @@
 
 ## [0. RoadMap](https://github.com/ChanYoung-dev/WebStudy/blob/master/docs/0.RoadMap/README.md "로드맵")
 
-## 1. Beginning
+## [1. Beginning](https://github.com/ChanYoung-dev/WebStudy/blob/master/docs/1.Beginning/README.md "초급")
 
 - Cooperation
-- Coding Test
+- C
+- Python
 - Web Basic
 
 ## 2. Intermediate
