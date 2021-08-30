@@ -10,3 +10,5 @@
 - Web Basic
   - [Basic](https://github.com/ChanYoung-dev/FrontendBasic/blob/master/1.%20Basic/README.md "웹기초")
 
+  - [Basic](https://github.com/ChanYoung-dev/FrontendBasic/blob/master/1.%20Basic/README.md "basicc")
+
