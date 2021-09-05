@@ -13,7 +13,7 @@
 - Cooperation
 - C
 - Python
-- Web Basic
+- Web Basics
 
 ## 2. Intermediate
 
