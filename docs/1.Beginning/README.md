@@ -1,6 +1,6 @@
 ## 1. Beginning
 
-- Cooperation
+- Git
 - C
   - [CoadingTest](https://github.com/ChanYoung-dev/programmers-Algorithm "코딩테스트")
 - Python
